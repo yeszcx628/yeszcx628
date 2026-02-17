@@ -1,4 +1,5 @@
 <h1 align="center">yeszcx628 // Cyber Builder</h1>
+<p align="center"><sub>Last refresh: 2026-02-18</sub></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Neither%20Humble%20Nor%20Arrogant&fontAlign=50&fontAlignY=35&color=0:00f5ff,50:7a5cff,100:00ffa3&fontColor=0b1020" alt="banner" />
